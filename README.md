@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Zee98
-- 👀 I’m interested in web app, building api, python and js.
+- 👋 Hi, I’m Zaman
+- 👀 I’m interested in building web applications, designing, PWA.
+- familiar with languages and libraries of Python, Django, flask, Pillow,...
+- Javascript languages and libraries such as react, redux, ...
+- AWS services, Heroku, GCP
 - 🌱 I’m currently learning js and its papular libs.
 - 📫 Reach me at zamanehsani@gmail.com
 
